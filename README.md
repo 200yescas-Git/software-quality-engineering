@@ -1,4 +1,4 @@
-<h1 align="center">SOFTWARE QUALITY ENGINEERING</h1>
+<h1 align="center">SOFTWARE QUALITY</h1>
 <p align="center">Software Testing | Quality Assurance | Test Design | Defect Management | SDLC | STLC | Automation Fundamentals</p>
 
 ### Professional Technical Portfolio | Long-Term Engineering Repository
