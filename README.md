@@ -1,5 +1,5 @@
 <h1 align="center">SOFTWARE QUALITY</h1>
-<p align="center">Software Testing | Quality Assurance | Test Design | Defect Management | SDLC | STLC | Automation Fundamentals</p>
+<p align="center">Software Testing | Software Quality Assurance | Test Automation | Performance | Security | DevOps Testing</p>
 
 ### Professional Technical Portfolio | Long-Term Engineering Repository
 
@@ -10,4 +10,5 @@ Este repositorio representa un dominio especializado dentro de mi portafolio té
 Su contenido documenta la aplicación práctica de conocimientos mediante laboratorios, proyectos, documentación técnica y escenarios orientados a procesos reales de Software Quality Engineering.
 
 ---
+
 
