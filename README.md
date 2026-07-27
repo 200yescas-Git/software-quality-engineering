@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/banner/microsoft-banner.png" width="900"/>
+</p>
+
 <h1 align="center">SOFTWARE QUALITY</h1>
 <p align="center">Software Testing | Software Quality Assurance | Test Automation | Performance | Security | DevOps Testing</p>
 
