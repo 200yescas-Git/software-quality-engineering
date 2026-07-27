@@ -269,5 +269,45 @@ software-quality-engineering/
 └── DevOps Quality Engineering
 ```
 
+## Technical Domains
+
+### Domain Name
+
+Descripción del dominio y su importancia dentro del ecosistema tecnológico.
+
+Incluye:
+
+- Tecnologías principales.
+- Herramientas utilizadas.
+- Casos de uso.
+- Aplicaciones empresariales.
+
+---
+
+## Labs
+
+Los laboratorios documentarán escenarios prácticos relacionados con administración de servidores Windows, Active Directory, Azure, PowerShell e infraestructura Microsoft.
+
+Cada laboratorio incluirá:
+
+- Objetivo
+- Requisitos
+- Procedimiento
+- Evidencia
+- Resultados
+- Lecciones aprendidas
+
+### Example
+
+```text
+labs/
+│
+├── lab-01-name/
+├── lab-02-name/
+└── lab-03-name/
+```
+
+---
+
 
 
