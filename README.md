@@ -236,6 +236,38 @@ Los siguientes dominios tecnológicos mantienen repositorios independientes:
 - Networking Technologies → Network Engineering
 - Cybersecurity Operations → Cybersecurity Engineering
 
+---
+
+
+## Repository Architecture
+
+La estructura del repositorio está organizada por dominios tecnológicos.
+
+Cada dominio mantiene de forma independiente su documentación, laboratorios, proyectos, recursos y rutas de aprendizaje.
+
+Ejemplo:
+
+```text
+software-quality-engineering/
+
+│
+├── Software Testing
+├── Test Design
+├── Test Management
+├── Defect Management
+├── Agile Testing
+├── API Testing
+├── Database Testing
+├── Web Testing
+├── Mobile Testing
+├── Automation Testing
+├── Performance Testing
+├── Security Testing
+├── Continuous Testing
+├── Quality Metrics
+├── Quality Standards
+└── DevOps Quality Engineering
+```
 
 
 
