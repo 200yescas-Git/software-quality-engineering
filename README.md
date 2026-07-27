@@ -309,5 +309,159 @@ labs/
 
 ---
 
+## Projects
+
+Los proyectos estarán orientados a implementar soluciones relacionadas con Software Quality Engineering en escenarios reales.
+
+Ejemplos:
+
+- Estrategias de pruebas.
+- Planes de prueba.
+- Casos de prueba.
+- Automatización de pruebas.
+- Frameworks de Testing.
+- API Testing.
+- Performance Testing.
+- Security Testing.
+- Integración de pruebas en CI/CD.
+- Dashboards de calidad.
+- Documentación técnica empresarial.
+
+---
+
+## Learning Paths
+
+Cada dominio tecnológico mantendrá sus propias rutas de aprendizaje, laboratorios y certificaciones.
+
+Ejemplos:
+
+- Software Testing Fundamentals
+- Software Quality Assurance
+- Manual Testing
+- SQL for Testers
+- API Testing
+- Selenium
+- Playwright
+- Cypress
+- Performance Testing
+- Security Testing
+- ISTQB Foundation
+- ISTQB Advanced
+- DevOps Testing
+- AI Assisted Testing
+
+---
+
+## Documentation Standards
+
+Toda la documentación seguirá principios de:
+
+- Claridad técnica.
+- Organización consistente.
+- Evidencia práctica.
+- Reproducibilidad.
+- Referencias oficiales.
+- Mejora continua.
+
+---
+
+## Roadmap
+
+### Phase 1 — Software Quality Fundamentals
+
+- Software Quality Assurance
+- Software Testing
+- SDLC
+- STLC
+- Quality Principles
+- QA Documentation
+
+### Phase 2 — Manual Testing
+
+- Test Design
+- Test Cases
+- Test Plans
+- Functional Testing
+- Regression Testing
+- Defect Management
+
+### Phase 3 — Enterprise Testing
+
+- SQL Testing
+- Database Testing
+- API Testing
+- Web Testing
+- Mobile Testing
+
+### Phase 4 — Test Automation
+
+- Selenium
+- Playwright
+- Cypress
+- Automation Frameworks
+- Python for Testing
+
+### Phase 5 — Advanced Quality Engineering
+
+- Performance Testing
+- Security Testing
+- Continuous Testing
+- DevOps Quality Engineering
+- Quality Metrics
+- Enterprise Projects
+
+---
+
+## Lessons Learned
+
+Esta sección documenta:
+
+- Problemas encontrados.
+- Errores cometidos.
+- Soluciones aplicadas.
+- Mejoras realizadas.
+- Conocimientos adquiridos.
+
+---
+
+## Repository Status
+
+**Status:** Active Development
+
+Este repositorio se encuentra en construcción continua como parte de un proceso de aprendizaje y desarrollo profesional.
+
+---
+
+## References
+
+Fuentes utilizadas:
+
+- Documentación oficial.
+- Libros técnicos.
+- Estándares de industria.
+- Cursos especializados.
+- Laboratorios prácticos.
+
+---
+
+## Core Principles
+
+Este repositorio sigue los siguientes principios:
+
+- Continuous Learning.
+- Documentation First.
+- Practical Experience.
+- Technical Excellence.
+- Continuous Improvement.
+- Knowledge Organization.
+
+## Professional Vision
+
+Cada laboratorio, proyecto y documento representa una etapa del proceso de crecimiento técnico, manteniendo como principios fundamentales la práctica constante, la documentación estructurada y la mejora continua.
+
+Más que un repositorio de estudio, este proyecto constituye una base de conocimiento en evolución permanente, orientada a reflejar el desarrollo progresivo de habilidades de ingeniería y la aplicación de buenas prácticas de la industria.
+
+> **Building knowledge through practice, documentation and continuous improvement.**
+
 
 
