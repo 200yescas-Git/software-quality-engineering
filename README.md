@@ -15,5 +15,226 @@ Su contenido documenta la aplicación práctica de conocimientos mediante labora
 
 ---
 
+## Purpose
+
+El propósito de este repositorio es desarrollar competencias profesionales relacionadas con Software Quality Engineering mediante la documentación, implementación y mejora continua de procesos de calidad utilizados en la industria del software.
+
+Los principales objetivos incluyen:
+
+- Documentar soluciones técnicas.
+- Desarrollar laboratorios prácticos.
+- Implementar proyectos orientados a escenarios reales.
+- Aplicar buenas prácticas de Software Quality Engineering.
+- Construir evidencia técnica del aprendizaje continuo.
+
+---
+
+## Scope
+
+Este repositorio comprende el estudio, documentación y desarrollo práctico de metodologías, herramientas y tecnologías utilizadas en Software Quality Engineering.
+
+El dominio evoluciona progresivamente conforme se adquieren nuevas competencias profesionales.
+
+---
+
+### Software Testing Fundamentals
+
+Fundamentos del aseguramiento de calidad y pruebas de software.
+
+**Áreas principales:**
+
+- Software Quality Assurance (SQA)
+- Software Testing Fundamentals
+- Software Development Life Cycle (SDLC)
+- Software Testing Life Cycle (STLC)
+- Software Quality Principles
+- Testing Methodologies
+- QA Documentation
+
+---
+
+### Manual Testing
+
+Diseño, documentación y ejecución de pruebas manuales.
+
+**Áreas principales:**
+
+- Test Cases
+- Test Scenarios
+- Test Suites
+- Test Plans
+- Functional Testing
+- Regression Testing
+- Smoke Testing
+- Sanity Testing
+- Exploratory Testing
+- User Acceptance Testing (UAT)
+
+---
+
+### Defect Management
+
+Administración y seguimiento de incidencias durante el proceso de pruebas.
+
+**Áreas principales:**
+
+- Bug Reporting
+- Bug Life Cycle
+- Severity
+- Priority
+- Root Cause Analysis
+- Defect Tracking
+- Test Evidence
+
+---
+
+### Database Testing
+
+Validación de datos y pruebas sobre bases de datos.
+
+**Áreas principales:**
+
+- SQL
+- MySQL
+- Oracle Database
+- Data Validation
+- Database Testing
+- Data Integrity
+
+---
+
+### Agile Quality Engineering
+
+Integración del aseguramiento de calidad dentro de metodologías ágiles.
+
+**Áreas principales:**
+
+- Scrum
+- Sprint Testing
+- User Stories
+- Acceptance Criteria
+- Agile QA
+- Continuous Feedback
+
+---
+
+### Test Automation
+
+Automatización de pruebas funcionales.
+
+**Áreas principales:**
+
+- Selenium
+- Playwright
+- Cypress
+- Python Automation
+- Automation Frameworks
+- Automation Best Practices
+
+---
+
+### API Testing
+
+Pruebas de servicios y APIs.
+
+**Áreas principales:**
+
+- REST APIs
+- Postman
+- Swagger
+- REST Assured
+- API Validation
+
+---
+
+### Performance Engineering
+
+Pruebas de rendimiento y capacidad.
+
+**Áreas principales:**
+
+- Apache JMeter
+- Load Testing
+- Stress Testing
+- Spike Testing
+- Endurance Testing
+- Performance Analysis
+
+---
+
+### Security Testing
+
+Evaluación de la seguridad del software.
+
+**Áreas principales:**
+
+- OWASP Testing
+- Security Testing
+- Authentication Testing
+- Authorization Testing
+- Vulnerability Assessment
+
+---
+
+### DevOps Quality Engineering
+
+Integración del testing dentro de procesos DevOps.
+
+**Áreas principales:**
+
+- Continuous Testing
+- CI/CD
+- GitHub Actions
+- Jenkins
+- Docker
+- Quality Gates
+- Test Pipelines
+
+---
+
+### Enterprise Quality Engineering
+
+Madurez de procesos de calidad utilizados en organizaciones.
+
+**Áreas principales:**
+
+- Test Management
+- Risk-Based Testing
+- Quality Metrics
+- Traceability Matrix
+- ISO/IEC 25010
+- ISO/IEC 29119
+- Static Code Analysis
+- SonarQube
+
+---
+
+### Advanced Software Quality Engineering
+
+Especialización profesional en Ingeniería de Calidad de Software.
+
+**Áreas principales:**
+
+- Enterprise Test Automation
+- AI Assisted Testing
+- Shift Left Testing
+- Shift Right Testing
+- Chaos Testing
+- Observability
+- Continuous Quality
+- Quality Engineering Leadership
+
+---
+
+## Out of Scope
+
+Los siguientes dominios tecnológicos mantienen repositorios independientes:
+
+- GNU/Linux → Linux Engineering
+- Infrastructure Technologies → Infrastructure Engineering
+- Database Technologies → Database Engineering
+- Networking Technologies → Network Engineering
+- Cybersecurity Operations → Cybersecurity Engineering
+
 
 
