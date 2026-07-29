@@ -8,8 +8,6 @@ Comprender los fundamentos del software testing ,los procesos del ciclo de vida 
 
 ## General Description
 
-## Importancia del Software Testing
-
 El **Software Testing** desempeña un papel fundamental en el desarrollo de software, ya que permite evaluar la calidad de las aplicaciones antes de su implementación en entornos de producción. A través de un proceso sistemático de pruebas, es posible identificar defectos, validar requisitos y verificar que el software funcione de acuerdo con las expectativas del negocio y de los usuarios.
 
 Su aplicación contribuye a reducir riesgos, minimizar los costos asociados a la corrección de errores, mejorar la estabilidad del sistema y fortalecer la seguridad de las aplicaciones. Además, favorece una mejor experiencia de usuario al garantizar que el software sea confiable, eficiente y cumpla con los estándares de calidad establecidos.
@@ -31,5 +29,9 @@ Su aplicación contribuye a reducir riesgos, minimizar los costos asociados a la
 
 ## Summary
 
+El software testing permite identificar defectos de manera temprana, reducir riesgos, mejorar la estabilidad del sistema y garantizar que el software cumpla con los requisitos establecidos.
 
+## Conclusion
+
+El software testing es una práctica esencial para desarrollar aplicaciones seguras, estables y de alta calidad. La implementación de buenas prácticas de aseguramiento de la calidad contribuye a entregar soluciones tecnológicas confiables y mejorar la experiencia del usuario final.
 
