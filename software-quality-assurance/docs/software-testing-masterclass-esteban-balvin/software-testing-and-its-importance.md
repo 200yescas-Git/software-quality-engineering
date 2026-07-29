@@ -29,5 +29,7 @@ Su aplicación contribuye a reducir riesgos, minimizar los costos asociados a la
 - **Functional Testing:** Verificación de que las funcionalidades cumplen con los requisitos especificados.
 - **Non-Functional Testing:** Evaluación de aspectos como rendimiento, seguridad, usabilidad y confiabilidad.
 
+## Summary
+
 
 
